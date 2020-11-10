@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605023300 source:/home/afnan/Desktop/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<ctype.h>
+	<signal.h>
+	<time.h>
+
